@@ -1,2 +1,2 @@
-# Python-
+# Python
 AQ Python KT
